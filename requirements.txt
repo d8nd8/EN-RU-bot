@@ -1,0 +1,5 @@
+SQLAlchemy~=2.0.32
+telebot~=0.0.5
+re~=2.2.1
+pyTelegramBotAPI~=4.11.0
+random~=0.12.2
